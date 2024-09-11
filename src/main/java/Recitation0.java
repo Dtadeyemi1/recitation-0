@@ -4,3 +4,8 @@ public class Recitation0 {
         System.out.println("Hello World!");
     }
 }
+/*
+git add .
+git commit -m "Some message"
+git push
+*/
